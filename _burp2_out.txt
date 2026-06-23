@@ -1,0 +1,3250 @@
+﻿Total items: 262
+
+[000] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348334808
+
+[001] GET 204 https://accounts.google.com/v3/signin/_/AccountsSignInUi/gen204/?tmambps=0.000549324200913
+
+[002] GET 200 https://www.viewmax.io/api/auth/get-session
+
+[003] GET 200 https://www.viewmax.io/api/auth/get-session
+
+[004] GET 200 https://www.viewmax.io/api/me
+  *** KEYWORDS: ['subscription']
+  RESP JSON: {
+  "user": {
+    "id": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "name": "nxx06",
+    "email": "nxx06@edu-mail.edu.rs",
+    "image": null,
+    "createdAt": "2026-03-16T07:10:44.241Z"
+  },
+  "subscription": {
+    "id": "cmmsuiz6j0005l4048cy8snpq",
+    "userId": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "status": "ACTIVE",
+    "customerId": "cus_U9oyDZLnAhsjYu",
+    "subscriptionId": "sub_1TBVK8DFqM2xdWFADCcM0LdR",
+    "billingCycle": "MONTHLY",
+    "services": [
+      {
+        "max": 350,
+        "type": "AI_CREDITS",
+        "unit": "credits",
+        "used": 0,
+        "totalCost": 0,
+        "
+
+[005] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348351113
+
+[006] GET 206 https://media.viewmax.io/static/Tools/aistory-template.mp4
+
+[007] GET 200 https://www.viewmax.io/api/me
+  *** KEYWORDS: ['subscription']
+  RESP JSON: {
+  "user": {
+    "id": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "name": "nxx06",
+    "email": "nxx06@edu-mail.edu.rs",
+    "image": null,
+    "createdAt": "2026-03-16T07:10:44.241Z"
+  },
+  "subscription": {
+    "id": "cmmsuiz6j0005l4048cy8snpq",
+    "userId": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "status": "ACTIVE",
+    "customerId": "cus_U9oyDZLnAhsjYu",
+    "subscriptionId": "sub_1TBVK8DFqM2xdWFADCcM0LdR",
+    "billingCycle": "MONTHLY",
+    "services": [
+      {
+        "max": 350,
+        "type": "AI_CREDITS",
+        "unit": "credits",
+        "used": 0,
+        "totalCost": 0,
+        "
+
+[008] GET 206 https://media.viewmax.io/static/Tools/aividgen_web.mp4
+
+[009] GET 206 https://media.viewmax.io/static/Tools/aiimggen_web.mp4
+
+[010] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348356633
+
+[011] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348361904
+
+[012] POST 200 https://incoming.telemetry.mozilla.org/submit/telemetry/876efaee-19f6-4b9d-b3b9-3e9e9568c9
+
+[013] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348367210
+
+[014] GET 206 https://media.viewmax.io/static/Tools/script-generator.mp4
+
+[015] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348372426
+
+[016] GET 200 https://www.viewmax.io/home
+
+[017] GET 200 https://www.viewmax.io/_next/static/media/black_italic-s.p.de607b13.otf
+
+[018] GET 200 https://www.viewmax.io/_next/static/media/bold-s.p.389a1287.otf
+
+[019] GET 200 https://www.viewmax.io/_next/static/media/light_italic-s.p.9f71a6ed.otf
+
+[020] GET 200 https://www.viewmax.io/_next/static/media/medium-s.p.06b6a9b9.otf
+
+[021] GET 200 https://www.viewmax.io/_next/static/media/bold_italic-s.p.b057f76c.otf
+
+[022] GET 200 https://www.viewmax.io/_next/static/media/heavy_italic-s.p.3d0cf7c8.otf
+
+[023] GET 200 https://www.viewmax.io/_next/static/media/regular-s.p.c2e0e557.otf
+
+[024] GET 200 https://www.viewmax.io/_next/static/media/thin_italic-s.p.1bd3347d.otf
+
+[025] GET 200 https://www.viewmax.io/_next/static/media/ultra_light_italic-s.p.6cf141a8.otf
+
+[026] GET 200 https://www.viewmax.io/api/account/workshop-access
+
+[027] GET 200 https://www.viewmax.io/api/auth/get-session
+
+[028] GET 200 https://www.viewmax.io/api/me
+  *** KEYWORDS: ['subscription']
+  RESP JSON: {
+  "user": {
+    "id": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "name": "nxx06",
+    "email": "nxx06@edu-mail.edu.rs",
+    "image": null,
+    "createdAt": "2026-03-16T07:10:44.241Z"
+  },
+  "subscription": {
+    "id": "cmmsuiz6j0005l4048cy8snpq",
+    "userId": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "status": "ACTIVE",
+    "customerId": "cus_U9oyDZLnAhsjYu",
+    "subscriptionId": "sub_1TBVK8DFqM2xdWFADCcM0LdR",
+    "billingCycle": "MONTHLY",
+    "services": [
+      {
+        "max": 350,
+        "type": "AI_CREDITS",
+        "unit": "credits",
+        "used": 0,
+        "totalCost": 0,
+        "
+
+[029] GET 200 https://www.viewmax.io/api/checklist-progress
+
+[030] GET 200 https://reviews.viewmax.team/api/check-user-review-status?email=nxx06%40edu-mail.edu.rs
+
+[031] GET 206 https://media.viewmax.io/static/Tools/aistory-template.mp4
+
+[032] GET 200 https://www.viewmax.io/tools/image-generator?_rsc=3hd5j
+
+[033] GET 200 https://www.viewmax.io/tools/video-generator?_rsc=3hd5j
+
+[034] GET 206 https://media.viewmax.io/static/Tools/aividgen_web.mp4
+
+[035] GET 206 https://media.viewmax.io/static/Tools/aiimggen_web.mp4
+
+[036] GET 200 https://www.viewmax.io/tools/image-generator?_rsc=wyhzh
+
+[037] GET 200 https://www.viewmax.io/tools/image-generator?_rsc=1x09p
+
+[038] GET 200 https://www.viewmax.io/tools/image-generator?_rsc=112i9
+
+[039] GET 200 https://www.viewmax.io/tools/image-generator?_rsc=gzlxf
+
+[040] POST 204 https://www.google.com/g/collect?v=2&tid=G-C0JLPEQ0MV&gtm=45je64o1v9228973456za200zd922897
+
+[041] GET 200 https://www.viewmax.io/tools/image-generator?_rsc=gkai9
+
+[042] GET 200 https://www.viewmax.io/tools/video-generator?_rsc=wyhzh
+
+[043] GET 200 https://www.viewmax.io/tools/video-generator?_rsc=1qbuh
+
+[044] GET 200 https://www.viewmax.io/tools/video-generator?_rsc=t5vvu
+
+[045] GET 200 https://www.viewmax.io/api/me
+  *** KEYWORDS: ['subscription']
+  RESP JSON: {
+  "user": {
+    "id": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "name": "nxx06",
+    "email": "nxx06@edu-mail.edu.rs",
+    "image": null,
+    "createdAt": "2026-03-16T07:10:44.241Z"
+  },
+  "subscription": {
+    "id": "cmmsuiz6j0005l4048cy8snpq",
+    "userId": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "status": "ACTIVE",
+    "customerId": "cus_U9oyDZLnAhsjYu",
+    "subscriptionId": "sub_1TBVK8DFqM2xdWFADCcM0LdR",
+    "billingCycle": "MONTHLY",
+    "services": [
+      {
+        "max": 350,
+        "type": "AI_CREDITS",
+        "unit": "credits",
+        "used": 0,
+        "totalCost": 0,
+        "
+
+[046] GET 200 https://www.viewmax.io/api/video-generation/history?limit=12
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [],
+  "hasMore": false,
+  "nextCursor": null
+}
+
+[047] GET 200 https://www.viewmax.io/api/video-generation/references
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "references": []
+}
+
+[048] GET 200 https://www.viewmax.io/api/me
+  *** KEYWORDS: ['subscription']
+  RESP JSON: {
+  "user": {
+    "id": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "name": "nxx06",
+    "email": "nxx06@edu-mail.edu.rs",
+    "image": null,
+    "createdAt": "2026-03-16T07:10:44.241Z"
+  },
+  "subscription": {
+    "id": "cmmsuiz6j0005l4048cy8snpq",
+    "userId": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "status": "ACTIVE",
+    "customerId": "cus_U9oyDZLnAhsjYu",
+    "subscriptionId": "sub_1TBVK8DFqM2xdWFADCcM0LdR",
+    "billingCycle": "MONTHLY",
+    "services": [
+      {
+        "max": 350,
+        "type": "AI_CREDITS",
+        "unit": "credits",
+        "used": 0,
+        "totalCost": 0,
+        "
+
+[049] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348380896
+
+[050] POST 200 https://www.viewmax.io/mp/engage/?verbose=1&ip=1&_=1777348380898
+
+[051] POST 204 https://www.google.com/g/collect?v=2&tid=G-C0JLPEQ0MV&gtm=45je64o1v9228973456za200zd922897
+
+[052] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348391060
+
+[053] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348396244
+
+[054] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348401451
+
+[055] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348406644
+
+[056] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348411869
+
+[057] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348422201
+
+[058] POST 200 https://www.viewmax.io/api/video-generation/generate
+  *** KEYWORDS: ['generate', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generationIds": [
+    "cmoi3deq20003kw04w5jlg0bq"
+  ],
+  "message": "Started 1 video generation"
+}
+
+[059] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348442371
+
+[060] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:03.280Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[061] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:03.280Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[062] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348452524
+
+[063] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:03.280Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[064] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:03.280Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[065] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348457725
+
+[066] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:03.280Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[067] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3deq20003kw04w5jlg0bq",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[068] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:22.704Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[069] POST 200 https://www.viewmax.io/api/r2/upload
+
+[070] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348467882
+
+[071] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:22.704Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[072] POST 503 https://www.viewmax.io/api/video-generation/generate
+  *** KEYWORDS: ['generate', 'video-generation']
+  RESP JSON: {
+  "error": "The request failed because the input image may contain real person. Request id: 0217773484754109ded32e803badef81244c2c5f5c7f1be287468"
+}
+
+[073] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:22.704Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[074] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348478117
+
+[075] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:22.704Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[076] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:22.704Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[077] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3deq20003kw04w5jlg0bq",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[078] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:42.122Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[079] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348483304
+
+[080] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:42.122Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[081] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:42.122Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[082] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:54:42.122Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[083] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3deq20003kw04w5jlg0bq",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[084] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:01.142Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[085] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:01.142Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[086] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348508489
+
+[087] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:01.142Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[088] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348513748
+
+[089] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:01.142Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[090] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3deq20003kw04w5jlg0bq",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[091] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:22.620Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[092] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348523945
+
+[093] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:22.620Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[094] POST 200 https://www.viewmax.io/api/r2/upload
+
+[095] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348529175
+
+[096] POST 503 https://www.viewmax.io/api/video-generation/generate
+  *** KEYWORDS: ['generate', 'video-generation']
+  RESP JSON: {
+  "error": "The request failed because the input image may contain real person. Request id: 021777348536663b825dd5258dc4c388f66926d17e5fb9ccd8282"
+}
+
+[097] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:22.620Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[098] POST 200 https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/bb9fa2bb-33b4-417
+
+[099] POST 200 https://incoming.telemetry.mozilla.org/submit/firefox-desktop/usage-reporting/1/bd77d064-1
+
+[100] POST 200 https://incoming.telemetry.mozilla.org/submit/firefox-desktop/events/1/06354071-bbb7-4cb0-
+
+[101] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:22.620Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[102] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3deq20003kw04w5jlg0bq",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[103] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:54.129Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[104] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:54.129Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[105] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "fromCache": false,
+  "generation": {
+    "id": "cmoi3deq20003kw04w5jlg0bq",
+    "status": "succeeded",
+    "progress": 100,
+    "videoUrl": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/sora-videos/cgt-20260428115402-4lwgk/3d885d95-ec90-4829-91f0-48ec5329dd66.mp4"
+  }
+}
+
+[106] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T03:54:01.803Z",
+      "updatedAt": "2026-04-28T03:55:54.129Z",
+      "inputMedia": [],
+      "resolution": "720p"
+    }
+  ]
+}
+
+[107] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348584513
+
+[108] POST 200 https://www.viewmax.io/api/r2/upload
+
+[109] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3deq20003kw04w5jlg0bq
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3deq20003kw04w5jlg0bq",
+      "soraTaskId": "cgt-20260428115402-4lwgk",
+      "prompt": "A girl riding bicycle",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "succeeded",
+      "progress": 100,
+      "videoUrl": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/sora-videos/cgt-20260428115402-4lwgk/3d885d95-ec90-4829-91f0-48ec5329dd66.mp4",
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-text",
+      "createdAt": "2026-04-28T0
+
+[110] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348589718
+
+[111] GET 200 https://www.viewmax.io/api/me
+  *** KEYWORDS: ['subscription']
+  RESP JSON: {
+  "user": {
+    "id": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "name": "nxx06",
+    "email": "nxx06@edu-mail.edu.rs",
+    "image": null,
+    "createdAt": "2026-03-16T07:10:44.241Z"
+  },
+  "subscription": {
+    "id": "cmmsuiz6j0005l4048cy8snpq",
+    "userId": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "status": "ACTIVE",
+    "customerId": "cus_U9oyDZLnAhsjYu",
+    "subscriptionId": "sub_1TBVK8DFqM2xdWFADCcM0LdR",
+    "billingCycle": "MONTHLY",
+    "services": [
+      {
+        "max": 350,
+        "type": "AI_CREDITS",
+        "unit": "credits",
+        "used": 7,
+        "totalCost": 4.2,
+       
+
+[112] POST 200 https://www.viewmax.io/api/checklist-progress
+
+[113] POST 200 https://www.viewmax.io/api/video-generation/generate
+  *** KEYWORDS: ['generate', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generationIds": [
+    "cmoi3gqbn000zjo04rc8vljtx"
+  ],
+  "message": "Started 1 video generation"
+}
+
+[114] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:39.694Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url"
+
+[115] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348605085
+
+[116] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:39.694Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url"
+
+[117] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:39.694Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url"
+
+[118] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348610278
+
+[119] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:39.694Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url"
+
+[120] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348615448
+
+[121] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:39.694Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url"
+
+[122] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3gqbn000zjo04rc8vljtx",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[123] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:58.921Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url
+
+[124] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348620623
+
+[125] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:58.921Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url
+
+[126] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:58.921Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url
+
+[127] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348625823
+
+[128] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348631000
+
+[129] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:58.921Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url
+
+[130] POST 200 https://www.viewmax.io/api/r2/upload
+
+[131] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348636189
+
+[132] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:56:58.921Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url
+
+[133] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3gqbn000zjo04rc8vljtx",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[134] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:57:18.486Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url
+
+[135] POST 200 https://www.viewmax.io/api/r2/upload
+
+[136] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:57:18.486Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url
+
+[137] POST 200 https://www.viewmax.io/api/video-generation/generate
+  *** KEYWORDS: ['generate', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generationIds": [
+    "cmoi3hv1a001jl2049lcaccce"
+  ],
+  "message": "Started 1 video generation"
+}
+
+[138] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3gqbn000zjo04rc8vljtx",
+      "soraTaskId": "cgt-20260428115638-n9q9j",
+      "prompt": "realistic selfie vidoe",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:56:36.803Z",
+      "updatedAt": "2026-04-28T03:57:18.486Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url
+
+[139] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:32.982Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https:
+
+[140] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3gqbn000zjo04rc8vljtx,cmoi3hv1a
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:32.982Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https:
+
+[141] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3gqbn000zjo04rc8vljtx",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[142] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:32.982Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https:
+
+[143] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348666449
+
+[144] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:32.982Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https:
+
+[145] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:32.982Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https:
+
+[146] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3hv1a001jl2049lcaccce",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[147] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:48.976Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[148] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348671631
+
+[149] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:48.976Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[150] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:48.976Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[151] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3gqbn000zjo04rc8vljtx",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[152] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:48.976Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[153] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:57:48.976Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[154] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3hv1a001jl2049lcaccce",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[155] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:04.631Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[156] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348686810
+
+[157] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:04.631Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[158] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:04.631Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[159] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3gqbn000zjo04rc8vljtx",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[160] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348691996
+
+[161] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:04.631Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[162] POST 200 https://mozilla-ohttp.fastly-edge.com/
+
+[163] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:04.631Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[164] POST 200 https://www.viewmax.io/api/r2/upload
+
+[165] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3hv1a001jl2049lcaccce",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[166] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:20.469Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[167] GET 204 https://accounts.google.com/v3/signin/_/AccountsSignInUi/gen204/?tmambps=0.000549324200913
+
+[168] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348702212
+
+[169] POST 503 https://www.viewmax.io/api/video-generation/generate
+  *** KEYWORDS: ['generate', 'video-generation']
+  RESP JSON: {
+  "error": "The request failed because the input image may contain real person. Request id: 021777348708082b0b21285264a6e57d5de0f3c9dff4850ca24ef"
+}
+
+[170] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:20.469Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[171] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3gqbn000zjo04rc8vljtx",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[172] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:20.469Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[173] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:20.469Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[174] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3hv1a001jl2049lcaccce",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[175] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:36.420Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[176] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:36.420Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[177] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3gqbn000zjo04rc8vljtx",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[178] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:36.420Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[179] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:36.420Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[180] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3hv1a001jl2049lcaccce",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[181] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:55.017Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[182] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348747449
+
+[183] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348747609
+
+[184] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:55.017Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[185] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3gqbn000zjo04rc8vljtx",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[186] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:55.017Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[187] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:55.017Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[188] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348752794
+
+[189] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348757959
+
+[190] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:55.017Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[191] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348763156
+
+[192] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:58:55.017Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[193] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348768349
+
+[194] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3hv1a001jl2049lcaccce",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[195] GET 101 https://push.services.mozilla.com/
+
+[196] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "fromCache": false,
+  "generation": {
+    "id": "cmoi3gqbn000zjo04rc8vljtx",
+    "status": "succeeded",
+    "progress": 100,
+    "videoUrl": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/sora-videos/cgt-20260428115638-n9q9j/86ebc4a6-8958-4966-943a-d104a3655814.mp4"
+  }
+}
+
+[197] GET 200 https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/chang
+
+[198] POST 200 https://www.viewmax.io/api/r2/upload
+
+[199] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3gqbn
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3hv1a001jl2049lcaccce",
+      "soraTaskId": "cgt-20260428115730-75gn6",
+      "prompt": "lion vs tiger",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-image",
+      "createdAt": "2026-04-28T03:57:29.566Z",
+      "updatedAt": "2026-04-28T03:59:28.919Z",
+      "inputMedia": [
+        {
+          "kind": "firstFrame",
+          "url": "https
+
+[200] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348778568
+
+[201] POST 200 https://www.viewmax.io/api/video-generation/generate
+  *** KEYWORDS: ['generate', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generationIds": [
+    "cmoi3kogz003nl804rryi4e2g"
+  ],
+  "message": "Started 1 video generation"
+}
+
+[202] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T03:59:43.464Z",
+      "inputMedia": [
+        {
+          "kind": "referenceImag
+
+[203] GET 200 https://www.viewmax.io/api/video-generation/references?
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "references": []
+}
+
+[204] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348788722
+
+[205] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3hv1a001jl2049lcaccce,cmoi3kogz
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T03:59:43.464Z",
+      "inputMedia": [
+        {
+          "kind": "referenceImag
+
+[206] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3hv1a001jl2049lcaccce",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[207] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g,cmoi3hv1a
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T03:59:43.464Z",
+      "inputMedia": [
+        {
+          "kind": "referenceImag
+
+[208] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348793884
+
+[209] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g,cmoi3hv1a
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T03:59:43.464Z",
+      "inputMedia": [
+        {
+          "kind": "referenceImag
+
+[210] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g,cmoi3hv1a
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 0,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T03:59:43.464Z",
+      "inputMedia": [
+        {
+          "kind": "referenceImag
+
+[211] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3kogz003nl804rryi4e2g",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[212] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348799212
+
+[213] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g,cmoi3hv1a
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T03:59:59.430Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[214] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348804433
+
+[215] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g,cmoi3hv1a
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T03:59:59.430Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[216] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "fromCache": false,
+  "generation": {
+    "id": "cmoi3hv1a001jl2049lcaccce",
+    "status": "succeeded",
+    "progress": 100,
+    "videoUrl": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/sora-videos/cgt-20260428115730-75gn6/eef4aba4-0ea5-497c-b3ca-26c6f26ac9bb.mp4"
+  }
+}
+
+[217] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g,cmoi3hv1a
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T03:59:59.430Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[218] POST 200 https://www.viewmax.io/api/r2/upload
+
+[219] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348814611
+
+[220] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T03:59:59.430Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[221] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3kogz003nl804rryi4e2g",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[222] POST 200 https://www.viewmax.io/api/video-generation/references
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "reference": {
+    "id": "cmoi3lift003vl804j9mjotkf",
+    "name": "lena",
+    "category": "character",
+    "coverImageUrl": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/assets/852d8cc2-b9f8-4397-b1c4-44bccccbf4be.jpg",
+    "notes": null,
+    "klingElementId": null,
+    "klingElementSyncedAt": null,
+    "createdAt": "2026-04-28T04:00:19.866Z",
+    "updatedAt": "2026-04-28T04:00:19.866Z",
+    "images": [
+      {
+        "id": "cmoi3lift003wl804soczculv",
+        "url": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/assets/852d8cc2-b9f8
+
+[223] POST 200 https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/8affe953-70cd-40d
+
+[224] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:00:19.895Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[225] POST 200 https://incoming.telemetry.mozilla.org/submit/firefox-desktop/usage-reporting/1/6cad720b-4
+
+[226] GET 200 https://www.viewmax.io/api/video-generation/references
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "references": [
+    {
+      "id": "cmoi3lift003vl804j9mjotkf",
+      "name": "lena",
+      "category": "character",
+      "coverImageUrl": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/assets/852d8cc2-b9f8-4397-b1c4-44bccccbf4be.jpg",
+      "notes": null,
+      "klingElementId": null,
+      "klingElementSyncedAt": null,
+      "createdAt": "2026-04-28T04:00:19.866Z",
+      "updatedAt": "2026-04-28T04:00:19.866Z",
+      "images": [
+        {
+          "id": "cmoi3lift003wl804soczculv",
+          "url": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAP
+
+[227] GET 200 https://www.viewmax.io/api/video-generation/references?
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "references": [
+    {
+      "id": "cmoi3lift003vl804j9mjotkf",
+      "name": "lena",
+      "category": "character",
+      "coverImageUrl": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/assets/852d8cc2-b9f8-4397-b1c4-44bccccbf4be.jpg",
+      "notes": null,
+      "klingElementId": null,
+      "klingElementSyncedAt": null,
+      "createdAt": "2026-04-28T04:00:19.866Z",
+      "updatedAt": "2026-04-28T04:00:19.866Z",
+      "images": [
+        {
+          "id": "cmoi3lift003wl804soczculv",
+          "url": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAP
+
+[228] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:00:19.895Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[229] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348829809
+
+[230] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:00:19.895Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[231] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:00:19.895Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[232] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3kogz003nl804rryi4e2g",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[233] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348840122
+
+[234] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:00:39.205Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[235] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348845411
+
+[236] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:00:39.205Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[237] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:00:39.205Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[238] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:00:39.205Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[239] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "generation": {
+    "id": "cmoi3kogz003nl804rryi4e2g",
+    "status": "running",
+    "progress": 60,
+    "error": null
+  }
+}
+
+[240] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348860639
+
+[241] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:01:00.738Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[242] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:01:00.738Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[243] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348875849
+
+[244] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348881015
+
+[245] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348881192
+
+[246] POST 200 https://www.viewmax.io/api/image-generation/fetch-source
+
+[247] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "running",
+      "progress": 60,
+      "videoUrl": null,
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdAt": "2026-04-28T03:59:41.027Z",
+      "updatedAt": "2026-04-28T04:01:00.738Z",
+      "inputMedia": [
+        {
+          "kind": "referenceIma
+
+[248] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348891392
+
+[249] POST 200 https://www.viewmax.io/api/video-generation/check-sora-status
+  *** KEYWORDS: ['video-generation']
+  RESP JSON: {
+  "success": true,
+  "fromCache": false,
+  "generation": {
+    "id": "cmoi3kogz003nl804rryi4e2g",
+    "status": "succeeded",
+    "progress": 100,
+    "videoUrl": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/sora-videos/cgt-20260428115942-s7gbf/5e084c7e-36c9-46c3-8f25-a68bb79066f5.mp4"
+  }
+}
+
+[250] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348901613
+
+[251] GET 200 https://www.viewmax.io/api/video-generation/status?ids=cmoi3kogz003nl804rryi4e2g
+  *** KEYWORDS: ['seedance', 'video-generation']
+  RESP JSON: {
+  "success": true,
+  "generations": [
+    {
+      "id": "cmoi3kogz003nl804rryi4e2g",
+      "soraTaskId": "cgt-20260428115942-s7gbf",
+      "prompt": "i want red colored of this veriso",
+      "aspectRatio": "9:16",
+      "duration": 4,
+      "size": "720p",
+      "status": "succeeded",
+      "progress": 100,
+      "videoUrl": "https://media.viewmax.io/users/3ca1TfB26KLpBgJrEiAPzx29fepqRhmK/sora-videos/cgt-20260428115942-s7gbf/5e084c7e-36c9-46c3-8f25-a68bb79066f5.mp4",
+      "failureReason": null,
+      "error": null,
+      "credits": 7,
+      "provider": "seedance-reference",
+      "createdA
+
+[252] POST 200 https://www.viewmax.io/api/r2/upload
+
+[253] GET 200 https://www.viewmax.io/api/me
+  *** KEYWORDS: ['subscription']
+  RESP JSON: {
+  "user": {
+    "id": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "name": "nxx06",
+    "email": "nxx06@edu-mail.edu.rs",
+    "image": null,
+    "createdAt": "2026-03-16T07:10:44.241Z"
+  },
+  "subscription": {
+    "id": "cmmsuiz6j0005l4048cy8snpq",
+    "userId": "3ca1TfB26KLpBgJrEiAPzx29fepqRhmK",
+    "status": "ACTIVE",
+    "customerId": "cus_U9oyDZLnAhsjYu",
+    "subscriptionId": "sub_1TBVK8DFqM2xdWFADCcM0LdR",
+    "billingCycle": "MONTHLY",
+    "services": [
+      {
+        "max": 350,
+        "type": "AI_CREDITS",
+        "unit": "credits",
+        "used": 28,
+        "totalCost": 9.800000000
+
+[254] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348906800
+
+[255] POST 503 https://www.viewmax.io/api/video-generation/generate
+  *** KEYWORDS: ['generate', 'video-generation']
+  RESP JSON: {
+  "error": "The request failed because the input image may contain real person. Request id: 021777348914317c323afa74840446e61be924aaf3459eeee23e5"
+}
+
+[256] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348911984
+
+[257] GET 200 https://www.viewmax.io/api/auth/get-session
+
+[258] GET 200 https://www.viewmax.io/api/auth/get-session
+
+[259] GET 200 https://www.viewmax.io/api/auth/get-session
+
+[260] POST 200 https://www.viewmax.io/mp/track/?verbose=1&ip=1&_=1777348947403
+
+[261] GET 200 https://www.viewmax.io/api/auth/get-session
+
