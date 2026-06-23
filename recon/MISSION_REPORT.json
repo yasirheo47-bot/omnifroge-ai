@@ -1,0 +1,355 @@
+{
+  "target": "https://www.viewmax.io",
+  "tech": {
+    "server": "Vercel",
+    "framework": "Next.js",
+    "auth": "better-auth",
+    "session_cookies": [
+      "__Secure-better-auth.session_token",
+      "__Secure-better-auth.session_data",
+      "vm_vid"
+    ],
+    "cdn": [
+      "media.viewmax.io",
+      "www.viewmax.io"
+    ]
+  },
+  "public_pages": [
+    {
+      "method": "GET",
+      "path": "/",
+      "status": 200,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "html redirect/login page"
+    },
+    {
+      "method": "GET",
+      "path": "/home",
+      "status": 200,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "html redirect/login page"
+    },
+    {
+      "method": "GET",
+      "path": "/create",
+      "status": 200,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "html redirect/login page"
+    },
+    {
+      "method": "GET",
+      "path": "/pricing",
+      "status": 200,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "html redirect/login page"
+    },
+    {
+      "method": "GET",
+      "path": "/tools/ai-video-generator",
+      "status": 200,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "html redirect/login page"
+    },
+    {
+      "method": "GET",
+      "path": "/tools/ai-voiceover",
+      "status": 200,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "html redirect/login page"
+    },
+    {
+      "method": "GET",
+      "path": "/tools/script-writer",
+      "status": 200,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "html redirect/login page"
+    },
+    {
+      "method": "GET",
+      "path": "/tools/caption-remover",
+      "status": 200,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "html redirect/login page"
+    }
+  ],
+  "api_endpoints": [
+    {
+      "method": "GET",
+      "path": "/api/me",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"user\":null,\"subscription\":null,\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "POST",
+      "path": "/api/auth/sign-in/email",
+      "status": 403,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"message\":\"Missing or null Origin\",\"code\":\"MISSING_OR_NULL_ORIGIN\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "GET",
+      "path": "/api/auth/get-session",
+      "status": 200,
+      "auth_required": false,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "null",
+      "notes": "accessible"
+    },
+    {
+      "method": "POST",
+      "path": "/api/video-generation/generate",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "GET",
+      "path": "/api/video-generation/status",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "GET",
+      "path": "/api/video-generation/check-sora-status",
+      "status": 405,
+      "auth_required": false,
+      "exists": true,
+      "content_type": null,
+      "sample": null,
+      "notes": "exists, wrong method"
+    },
+    {
+      "method": "POST",
+      "path": "/api/video-generation/webhook",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Invalid webhook token\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "POST",
+      "path": "/api/video-generation/cancel",
+      "status": 404,
+      "auth_required": false,
+      "exists": false,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "not found"
+    },
+    {
+      "method": "GET",
+      "path": "/api/video-generation",
+      "status": 404,
+      "auth_required": false,
+      "exists": false,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "not found"
+    },
+    {
+      "method": "POST",
+      "path": "/api/image-generation/generate",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "POST",
+      "path": "/api/image-generation/webhook",
+      "status": 404,
+      "auth_required": false,
+      "exists": false,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "not found"
+    },
+    {
+      "method": "POST",
+      "path": "/api/ai-clone/generate",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "POST",
+      "path": "/api/stripe/ai-credits-checkout",
+      "status": 400,
+      "auth_required": false,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Invalid credits amount\"}",
+      "notes": "exists, needs valid body"
+    },
+    {
+      "method": "POST",
+      "path": "/api/account/subscription/upgrade",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "POST",
+      "path": "/api/account/subscription/cancel",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "POST",
+      "path": "/api/account/subscription/pause",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "POST",
+      "path": "/api/account/subscription/reactivate",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "POST",
+      "path": "/api/account/subscription/resume",
+      "status": 401,
+      "auth_required": true,
+      "exists": true,
+      "content_type": "application/json",
+      "sample": "{\"error\":\"Not authenticated\"}",
+      "notes": "auth required"
+    },
+    {
+      "method": "GET",
+      "path": "/api/admin/users",
+      "status": 404,
+      "auth_required": false,
+      "exists": false,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "not found"
+    },
+    {
+      "method": "GET",
+      "path": "/api/admin/bonus-campaigns",
+      "status": 404,
+      "auth_required": false,
+      "exists": false,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "not found"
+    },
+    {
+      "method": "GET",
+      "path": "/api/admin/permissions",
+      "status": 404,
+      "auth_required": false,
+      "exists": false,
+      "content_type": "text/html; charset=utf-8",
+      "sample": null,
+      "notes": "not found"
+    }
+  ],
+  "working_unauthenticated": [
+    "GET /api/auth/get-session"
+  ],
+  "requires_auth": [
+    "GET /api/me",
+    "POST /api/auth/sign-in/email",
+    "POST /api/video-generation/generate",
+    "GET /api/video-generation/status",
+    "POST /api/video-generation/webhook",
+    "POST /api/image-generation/generate",
+    "POST /api/ai-clone/generate",
+    "POST /api/account/subscription/upgrade",
+    "POST /api/account/subscription/cancel",
+    "POST /api/account/subscription/pause",
+    "POST /api/account/subscription/reactivate",
+    "POST /api/account/subscription/resume"
+  ],
+  "not_found": [
+    "POST /api/video-generation/cancel",
+    "GET /api/video-generation",
+    "POST /api/image-generation/webhook",
+    "GET /api/admin/users",
+    "GET /api/admin/bonus-campaigns",
+    "GET /api/admin/permissions"
+  ],
+  "mission_status": {
+    "phase": "recon_complete",
+    "platform": "viewmax.io",
+    "api_mapped": 15,
+    "auth_gated": 12,
+    "next_steps": [
+      "Provide valid session cookies for authenticated probing of /api/me and generation endpoints",
+      "Capture HAR from logged-in browser for full request/response shapes",
+      "Build legitimate API client wrapper (not bypass tooling)",
+      "Restore scenx_bot.py if Telegram automation is the end goal"
+    ],
+    "blocked_without_session": [
+      "video generation",
+      "image generation",
+      "ai-clone / kling motion control",
+      "credit balance check",
+      "subscription management"
+    ]
+  }
+}
