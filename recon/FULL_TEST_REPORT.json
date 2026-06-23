@@ -1,0 +1,1253 @@
+{
+  "timestamp": "2026-06-23T08:38:01Z",
+  "mission_recon": "ok",
+  "tokens": {
+    "total_checked": 28,
+    "alive": 0,
+    "dead": 28,
+    "alive_accounts": [],
+    "dead_accounts": [
+      {
+        "email": "timmylmagenzd23@outlook.com",
+        "status": "DEAD"
+      },
+      {
+        "email": "eric1peterson4610@gmail.com",
+        "status": "DEAD"
+      },
+      {
+        "email": "rosinasaustin@gmail.com",
+        "status": "DEAD"
+      },
+      {
+        "email": "vitalianopansy@gmail.com",
+        "status": "DEAD"
+      },
+      {
+        "email": "MachtSorin147@outlook.com",
+        "status": "DEAD"
+      },
+      {
+        "email": "alexander51gonzalez7120@gmail.com",
+        "status": "DEAD"
+      },
+      {
+        "email": "randy81foster6389@gmail.com",
+        "status": "DEAD"
+      },
+      {
+        "email": "thomas64hall9980@gmail.com",
+        "status": "DEAD"
+      },
+      {
+        "email": "albert53martinez3247@gmail.com",
+        "status": "DEAD"
+      },
+      {
+        "email": "anthonyprince897@outlook.com",
+        "status": "DEAD"
+      }
+    ]
+  },
+  "api_authenticated": [],
+  "scripts": {
+    "total": 147,
+    "passed": 87,
+    "skipped": 46,
+    "failed": 14,
+    "details": [
+      {
+        "name": "_add_pool_accounts.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_analyze_matchbg.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_analyze_suspension.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_analyze_suspension2.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_analyze_suspension3.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_analyze_upd.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_analyze_viddo.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_analyze_xml.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_analyze_zorq_js.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_b5new.py",
+        "category": "other",
+        "runnable": false,
+        "exit_code": null,
+        "error": "unterminated string literal (detected at line 1) (_b5new.py, line 1)",
+        "note": "syntax error"
+      },
+      {
+        "name": "_balance_check.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_bundle_analyze.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_bundle_apikey.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_bundle_mcp.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_bundle_whop.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_bypass2.py",
+        "category": "bypass",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_bypass3.py",
+        "category": "bypass",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_bypass4.py",
+        "category": "bypass",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_bypass5.py",
+        "category": "bypass",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_bypass_hunt.py",
+        "category": "bypass",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_check_accounts.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_cookies.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_credits.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_denver.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_farmed.py",
+        "category": "farm",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_check_gen_hdrs.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_google_acc.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_inbox.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_old_account.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_recent.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_row.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_status.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_suspended.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_user.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_check_zorq_acc.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_chk_all.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_chk_credits.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_ck.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_clear_queue.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_col_probe.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_coupon_whop_probe.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_dbg2.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_dbg3.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_dbg4.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_dbg5.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_dbg6.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_dbg7.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_dbg_gen.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_debug_inbox.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_debug_inbox2.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_debug_inbox3.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_debug_rls.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_debug_status.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_debug_trigger.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_decode_burp2.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_decode_create.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_decode_inbox.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_decode_mc.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_decode_sora2cons.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_decode_viewmax.py",
+        "category": "debug",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_delete_refund.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_diag_zorq.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_diag_zorq2.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_diag_zorq3.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_diag_zorq4.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_dig_viddo.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": null,
+        "error": "timeout 25s",
+        "note": "hung or long-running"
+      },
+      {
+        "name": "_dump_pricing.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_dump_sub.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_exploit_all.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_fresh.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_insert.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_loop.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_multiangle.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_pool.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_sub2.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_sub_bypass.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_test.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_update.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_update2.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_update3.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_update4.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_upgrade.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_welcome.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_exploit_workflow.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "_extend_pause.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_extract_bundle.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "_extract_bundle2.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "analyze_cc.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "analyze_cc2.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "artspace_api.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "artspacebot.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "check_gen_response.py",
+        "category": "test",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Traceback (most recent call last):\n  File \"/workspace/check_gen_response.py\", line 3, in <module>\n    with open('rork', 'rb') as f:\n         ^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such fil",
+        "note": "missing input file"
+      },
+      {
+        "name": "check_url.py",
+        "category": "test",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Traceback (most recent call last):\n  File \"/workspace/check_url.py\", line 15, in <module>\n    row = r.json()[0]\n          ~~~~~~~~^^^\nKeyError: 0\n",
+        "note": "failed"
+      },
+      {
+        "name": "check_viewmax_tokens.py",
+        "category": "test",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 requires scenx_bot.py"
+      },
+      {
+        "name": "cve_2025_29927_recon.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Usage: python3 cve_2025_29927_recon.py <target_url> [pages]\nExample: python3 cve_2025_29927_recon.py https://vosu.ai 20\n",
+        "note": "failed"
+      },
+      {
+        "name": "debug_patch.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "decode_burp.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "decode_mc.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "dig_backend.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Traceback (most recent call last):\n  File \"/workspace/dig_backend.py\", line 464, in <module>\n    asyncio.run(main())\n    ^^^^^^^\nNameError: name 'asyncio' is not defined. Did you forget to import 'asy",
+        "note": "failed"
+      },
+      {
+        "name": "dig_kling.py",
+        "category": "recon",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "ran"
+      },
+      {
+        "name": "dig_kling2.py",
+        "category": "recon",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "ran"
+      },
+      {
+        "name": "dig_kling3.py",
+        "category": "recon",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "ran"
+      },
+      {
+        "name": "dig_kling4.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": null,
+        "error": "timeout 25s",
+        "note": "hung or long-running"
+      },
+      {
+        "name": "dig_webhook.py",
+        "category": "recon",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "ran"
+      },
+      {
+        "name": "exploit_credits.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_kling.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_kling2.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_kling3.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_kling4.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_kling5.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_kling6.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_mincost.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_multiplier.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_multiplier2.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_parallel.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_probe2.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_race.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_race2.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_race_loop.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_recover.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_recover2.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_refund.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_sora2pro.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_unlimited.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "exploit_webhook.py",
+        "category": "exploit",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "extract_cc.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "extract_pricing.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "extract_sora2.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "fix_sdnc_back.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "fix_surrogates.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "fix_surrogates2.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "scan_bundle.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "search_endpoints.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Traceback (most recent call last):\n  File \"/workspace/search_endpoints.py\", line 3, in <module>\n    with open('rork', 'rb') as f:\n         ^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file ",
+        "note": "missing input file"
+      },
+      {
+        "name": "search_endpoints2.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Traceback (most recent call last):\n  File \"/workspace/search_endpoints2.py\", line 3, in <module>\n    with open('rork', 'rb') as f:\n         ^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file",
+        "note": "missing input file"
+      },
+      {
+        "name": "search_keys.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Traceback (most recent call last):\n  File \"/workspace/search_keys.py\", line 3, in <module>\n    with open('rork', 'rb') as f:\n         ^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or di",
+        "note": "missing input file"
+      },
+      {
+        "name": "search_recover.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Traceback (most recent call last):\n  File \"/workspace/search_recover.py\", line 3, in <module>\n    with open('rork', 'rb') as f:\n         ^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or",
+        "note": "missing input file"
+      },
+      {
+        "name": "search_recover2.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Traceback (most recent call last):\n  File \"/workspace/search_recover2.py\", line 3, in <module>\n    with open('rork', 'rb') as f:\n         ^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file o",
+        "note": "missing input file"
+      },
+      {
+        "name": "search_videos_schema.py",
+        "category": "recon",
+        "runnable": false,
+        "exit_code": 1,
+        "error": "Traceback (most recent call last):\n  File \"/workspace/search_videos_schema.py\", line 3, in <module>\n    with open('rork', 'rb') as f:\n         ^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such f",
+        "note": "missing input file"
+      },
+      {
+        "name": "test_exploit_all_models.py",
+        "category": "test",
+        "runnable": false,
+        "exit_code": null,
+        "error": "timeout 25s",
+        "note": "hung or long-running"
+      },
+      {
+        "name": "test_gen.py",
+        "category": "test",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "ran"
+      },
+      {
+        "name": "test_mc_and_imggen.py",
+        "category": "test",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "ran"
+      },
+      {
+        "name": "test_refund.py",
+        "category": "test",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "ran"
+      },
+      {
+        "name": "viddo_unlimited.py",
+        "category": "other",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "syntax ok \u2014 not executed (debug/other)"
+      },
+      {
+        "name": "viewmax_farm.py",
+        "category": "farm",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "viewmax_farm_pushtg.py",
+        "category": "farm",
+        "runnable": false,
+        "exit_code": null,
+        "error": null,
+        "note": "skipped \u2014 exploit/bypass/farm not executed"
+      },
+      {
+        "name": "viewmax_unlimited.py",
+        "category": "viewmax",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "ran"
+      },
+      {
+        "name": "viewmax_mission.py",
+        "category": "viewmax",
+        "runnable": true,
+        "exit_code": 0,
+        "error": null,
+        "note": "ran"
+      }
+    ]
+  },
+  "summary": {
+    "overall": "NEEDS_AUTH",
+    "mission_recon": true,
+    "live_tokens": false,
+    "authenticated_api_works": false,
+    "generation_works": false,
+    "blockers": [
+      "no alive session tokens",
+      "scenx_bot.py missing"
+    ],
+    "next_actions": [
+      "Rotate and remove committed tokens from public repo",
+      "Upload scenx_bot.py for full bot testing",
+      "Use alive account with credits for generation tests"
+    ]
+  }
+}
