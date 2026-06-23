@@ -1,0 +1,218 @@
+
+[23:38:51] ✗  [fire_one] Exception: HTTPSConnectionPool(host='www.viewmax.io', port=443): Read timed out. (read timeout=20)
+[23:38:51] ✗  [vmx-sdnc uid:1790138084#3/3] Fire failed: HTTPSConnectionPool(host='www.viewmax.io', port=443): Read timed out. (read timeout=20)
+[23:38:51] ✗  [vmx-sdnc uid:1790138084] 🌊 Seedance FAILED: HTTPSConnectionPool(host='www.viewmax.io', port=443): Read timed out. (read timeout=20)
+[23:38:52] ✓  [webhook] ✅ refund OK — acc=vogimi3267  credits: 301 → 340  task=879048919299924020
+
+
+[23:32:57] ✗  [uid:8510447634] Race failed: 401: all rotated tokens expired — add fresh sessions
+[23:32:57] ✗  [uid:8510447634] FAILED: 401: all rotated tokens expired — add fresh sessions
+[23:33:51] ℹ  [uid:8510447634] on_message: cid=1641002075 g={'container': 1641002075, 'model': 'kling_mc', 'mc_quality': 'pro', 'mc_ar': '9:16', 'stage': 'mc_char'} photo=True doc=False text=False
+[23:33:55] ℹ  [uid:6795288739] on_message: cid=1641019406 g={'container': 1641019406, 'model': 'kling', 'stage': 'img1', 'mode': 'img', 'orient': 'portrait', 'dur': 15, 'count_next': 'image', 'img_label': 'reference image', 'count': 3} photo=True doc=False text=False
+[23:33:57] ℹ  [uid:6795288739] img1 downloaded 42392 bytes mime=image/jpeg
+[23:33:59] ✓  [pool-health] token reinstated: ...5@push.tg:Hamza@12@@
+[23:33:59] ✓  [pool-health] token reinstated: ...necub.com:cratos@321
+[23:33:59] ✓  [pool-health] revived 2 token(s) — live pool now 42/42
+
+
+[23:17:44] ✗  [uid:8346378341] FAILED: Image pixel is invalid
+
+
+[22:57:29] ✗  [PTB] unhandled exception: Timed out
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpx\_transports\default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        pool_request.request
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpcore\_async\connection.py", line 101, in handle_async_request
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpcore\_async\connection.py", line 78, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpcore\_async\connection.py", line 124, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpcore\_backends\auto.py", line 31, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpcore\_backends\anyio.py", line 113, in connect_tcp
+    with map_exceptions(exc_map):
+         ~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_httpxrequest.py", line 279, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpx\_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpx\_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpx\_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpx\_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpx\_transports\default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+         ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\Downloads\rork.ak\scenx_bot.py", line 3178, in on_callback
+    await _on_callback_inner(q, uid, chat, mid, data, ctx)
+  File "C:\Users\Administrator\Downloads\rork.ak\scenx_bot.py", line 3356, in _on_callback_inner
+    await show_videogen(ctx, chat, uid, cid)
+  File "C:\Users\Administrator\Downloads\rork.ak\scenx_bot.py", line 2093, in show_videogen
+    await _render_page(context, chat_id, user_id, IMG_VIDEOGEN, CAPTION_VIDEOGEN, _kb_videogen())
+  File "C:\Users\Administrator\Downloads\rork.ak\scenx_bot.py", line 1633, in _render_page
+    msg = await context.bot.send_photo(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 3204, in send_photo
+    return await super().send_photo(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<25 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 1612, in send_photo
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<22 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 630, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 820, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 704, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 733, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 305, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_httpxrequest.py", line 296, in do_request
+    raise TimedOut from err
+telegram.error.TimedOut: Timed out
+
+
+
+[22:50:37] ✗  [fire_one] Exception: HTTPSConnectionPool(host='www.viewmax.io', port=443): Read timed out. (read timeout=20)
+[22:50:37] ✗  [vmx-sdnc uid:1790138084#2/2] Fire failed: HTTPSConnectionPool(host='www.viewmax.io', port=443): Read timed out. (read timeout=20)
+[22:50:37] ✗  [vmx-sdnc uid:1790138084] 🌊 Seedance FAILED: HTTPSConnectionPool(host='www.viewmax.io', port=443): Read timed out. (rea
+
+
+13:45:50] !  [resize_for_sora] failed (No module named 'PIL'), using original
+[13:45:50] ℹ  [uid:6795288739] img1 resized for Sora 2 → (720, 1280)
+[13:45:55] ℹ  [uid:6795288739] img1 upload result: https://media.viewmax.io/users/Qtxu3UFUZr6i7eZGzPvfN1bAHneo4xug/assets/959ca6ab-c5cc-4a92-a9a0-d2026c806035.jpg
+[13:45:56] ℹ  [uid:6795288739] img1 success, mode=img, proceeding to next stage
+[13:46:13] ℹ  [uid:6795288739] on_message: cid=1605683689 g={'container': 1605683689, 'model': 'sora', 'stage': 'prompt', 'mode': 'img', 'orient': 'portrait', 'dur': 20, 'count_next': 'image', 'img_label': 'reference image', 'count': 3, 'img1': 'https://media.viewmax.io/users/Qtxu3UFUZr6i7eZGzPvfN1bAHneo4xug/assets/959ca6ab-c5cc-4a92-a9a0-d2026c806035.jpg'} photo=False doc=False text=True
+[13:46:30] 🔥  [uid:6795288739] Firing 3 × Sora 2 20s
+[13:46:37] ✗  [fire_one] HTTP 503 model=Sora 2 dur=20 mode=['firstFrame'] body='{"error":"Inpaint image must match the requested width and height"}'
+[13:46:37] ✗  [fire_one] HTTP 503 model=Sora 2 dur=20 mode=['firstFrame'] body='{"error":"Inpaint image must match the requested width and height"}'
+[13:46:37] ✗  [fire_one] HTTP 503 model=Sora 2 dur=20 mode=['firstFrame'] body='{"error":"Inpaint image must match the requested width and height"}'
+[13:46:37] ✗  [uid:6795288739] Race failed: Inpaint image must match the requested width and height
+[13:46:37] ✗  [uid:6795288739] FAILED: Inpaint image must match the requested width and height
+[13:46:40] ℹ  [vmx-sdnc uid:6795288739#3/3] [██████░░░░] 60% failed t=128s
+[13:46:40] ✗  [vmx-sdnc uid:6795288739] 🌊 Seedance FAILED: The request failed because the output video may be related to copyright restrictions. Request id: 02177757460939500000000000000000000ffffc0a89a4e64cfec
+[13:47:05] ℹ  [vmx-sdnc uid:6795288739#2/3] [██████████] 100% succeeded t=144s
+
+
+
+[13:39:27] ✗  [vmx-sdnc uid:6795288739] 🌊 Seedance FAILED: The service encountered an unexpected internal error.
+
+
+
+[11:43:01] ✗  [fire_one] Exception: Invalid leading whitespace, reserved character(s), or return character(s) in header value: '__Secure-better-auth.session_token=\u200escrap-pampered-bok@duck.com\n\u200escrap-pampered-bok@duck.com'
+[11:43:01] 🔥  [uid:6907735584] Firing 2 × Kling 3.0 Pro 15s
+[11:43:02] 🔥  [uid:6907735584] Firing 2 × Kling 3.0 Pro 15s
+[11:43:05] 🔥  [uid:6907735584] Firing 2 × Kling 3.0 Pro 15s
+[11:43:09] ✓  [uid:6907735584] Accepted 1 → ['cmolpq6gw000jl']
+[11:43:10] ✓  [uid:6907735584] Accepted 2 → ['cmolpq70g000ll', 'cmolpq73l000nl']
+[11:43:10] ✗  [fire_one] HTTP 503 model=Kling 3.0 Pro dur=15 mode=['firstFrame'] body='{"error":"400 - {\\"code\\":1201,\\"message\\":\\"prompt: size must be between 0 and 2500\\",\\"request_id\\":\\"bf4245a6-0e70-4ef7-a254-ec6e7342788d\\"}"}'
+[11:43:12] ℹ  [uid:6907735584#2] [█████░░░░░] 50% running t=8s
+[11:43:12] ℹ  [uid:6907735584#1] [█████░░░░░] 50% running t=8s
+[11:43:17] ✗  [fire_one] HTTP 503 model=Kling 3.0 Pro dur=15 mode=['firstFrame'] body='{"error":"400 - {\\"code\\":1201,\\"message\\":\\"prompt: size must be between 0 and 2500\\",\\"request_id\\":\\"197e5514-3117-4ee3-91d3-8f0d91ffd0de\\"}"}'
+[11:43:17] ✗  [uid:6907735584] Race failed: prompt: size must be between 0 and 2500
+[11:43:17] ✗  [uid:6907735584] FAILED: prompt: size must be between 0 and 2500

@@ -1,0 +1,44 @@
+{
+  "/api/admin/bonus-campaigns": [
+    {
+      "status": 401,
+      "content_length": 82,
+      "accessible": false
+    }
+  ],
+  "/api/admin/permissions": [
+    {
+      "status": 401,
+      "content_length": 82,
+      "accessible": false
+    }
+  ],
+  "/config.json": [
+    {
+      "status": 404,
+      "content_length": 3066,
+      "accessible": false
+    }
+  ],
+  "/api/graphql": [
+    {
+      "status": 404,
+      "content_length": 3066,
+      "accessible": false
+    }
+  ],
+  "/.env": [
+    {
+      "status": 404,
+      "content_length": 3066,
+      "accessible": false
+    }
+  ],
+  "/api/admin/users": [
+    {
+      "status": 200,
+      "content_length": 27836,
+      "accessible": true
+    }
+  ]
+}

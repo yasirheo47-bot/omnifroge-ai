@@ -1,0 +1,2 @@
+Message caption is too long — _adm_render is sending a caption that exceeds Telegram's 1024-char limit for send_photo. Need to find _adm_render in scenx_bot.py and truncate the caption.
+Standard Kling generation supports first-frame and last-frame image inputs only. — when mode='img' (reference image), it's being sent as referenceImage which Kling doesn't support.

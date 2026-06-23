@@ -1,0 +1,10 @@
+Dead token indices (3 total):
+[00] DEAD (401)
+  __Secure-better-auth.session_token=u7X2O6hI4lfxjwJIVM0u1otP0sWv8oL3.1%2FX4lAT8e550UX4mIh1P6rTXyj72PNOK3TAfCRG5tAU%3D
+
+[05] DEAD (401)
+  __Secure-better-auth.session_token=jmmE4UXhCNMaCNknxG0jPu3GoBw8Ny7G.eQ3EF4jKNwiaSX5SBy6k0yC3sKRZ5TXADIXAptm%2BcFM%3D
+
+[33] DEAD (401)
+  __Secure-better-auth.session_token=3w089LKaqaGUq8nCCbg2P6MzsYscoYe5.ybj%2FeKB%2FyZ0TCVIqsTyrhYA428zFIz%2F8ERjn5z5zPk%3D
+

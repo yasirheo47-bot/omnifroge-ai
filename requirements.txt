@@ -1,0 +1,20 @@
+# scenx_bot.py — Python 3.10+ required (uses X | Y union types)
+# Install: pip install -r requirements.txt
+
+# ── Telegram Bot framework ────────────────────────────────────────────────────
+# Must be ≥21.0 for async Application, concurrent_updates, post_init support
+python-telegram-bot[http2]>=21.0,<22.0
+
+# ── HTTP client ───────────────────────────────────────────────────────────────
+# Used for all Viewmax / Zorq / TinyURL / Cloudflare Worker API calls
+requests>=2.31.0
+
+# ── Image processing ─────────────────────────────────────────────────────────
+# Required for _resize_for_sora() — resizes images to exact Sora 2 pixel dims
+# Without this: "Inpaint image must match the requested width and height"
+Pillow>=10.0.0
+
+# ── Transitive deps (pulled in by python-telegram-bot, pinned for stability) ─
+httpx>=0.27.0
+httpcore>=1.0.0
+anyio>=4.0.0

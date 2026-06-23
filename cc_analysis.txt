@@ -1,0 +1,757 @@
+============================================================
+GET https://www.viewmax.io/api/video-generation/references
+--- REQUEST ---
+GET /api/video-generation/references HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g0$t1776952022$j60$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-b6570ee435b197f0-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:47:03 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::kxd4r-1776952023150-cac6ac440d7a
+
+{"success":true,"references":[{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?
+--- REQUEST ---
+GET /api/video-generation/references? HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-8acb5f7c08b73228-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:47:07 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::5p947-1776952027239-4d02b403350c
+
+{"success":true,"references":[{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+POST https://www.viewmax.io/api/video-generation/references
+--- REQUEST ---
+POST /api/video-generation/references HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Content-Type: application/json
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-a7b701581475e900-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Content-Length: 352
+Origin: https://www.viewmax.io
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Idempotency-Key: "10528196601539417676"
+Priority: u=4
+Te: trailers
+
+{"name":"babe","category":"character","notes":"","images":[{"url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg"},{"url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg"}]}
+--- RESPONSE ---
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:47:56 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::6n4lt-1776952071299-d9f0ae2585aa
+
+{"success":true,"reference":{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]}}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references
+--- REQUEST ---
+GET /api/video-generation/references HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-844fc99940b7bf01-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:47:56 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::nc5wt-1776952076429-f3b2d2def649
+
+{"success":true,"references":[{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?
+--- REQUEST ---
+GET /api/video-generation/references? HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-9ff854ad10c1ad18-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:47:57 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::p9f4l-1776952076431-5f534617e46c
+
+{"success":true,"references":[{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?category=location
+--- REQUEST ---
+GET /api/video-generation/references?category=location HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-a915f00d110834f4-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:48:52 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::lgg98-1776952132476-e95f0b0c80dc
+
+{"success":true,"references":[]}
+
+============================================================
+POST https://www.viewmax.io/api/video-generation/references
+--- REQUEST ---
+POST /api/video-generation/references HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Content-Type: application/json
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-b74dd9abda2cfa77-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Content-Length: 353
+Origin: https://www.viewmax.io
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Idempotency-Key: "14513055001024767022"
+Priority: u=4
+Te: trailers
+
+{"name":"ground","category":"location","notes":"","images":[{"url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","mimeType":"image/jpeg"},{"url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/c8d01db2-3b91-46e8-9729-5a43a9df3968.jpg","mimeType":"image/jpeg"}]}
+--- RESPONSE ---
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:49:45 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::9722t-1776952180813-ccfbc5645b02
+
+{"success":true,"reference":{"id":"cmobjg94k0001l804cbaqv9i3","name":"ground","category":"location","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","notes":null,"klingElementId":"308923664493300","klingElementSyncedAt":"2026-04-23T13:49:45.138Z","createdAt":"2026-04-23T13:49:45.140Z","updatedAt":"2026-04-23T13:49:45.140Z","images":[{"id":"cmobjg94k0002l804zxyp3zbv","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjg94k0003l8041zjat9fq","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/c8d01db2-3b91-46e8-9729-5a43a9df3968.jpg","mimeType":"image/jpeg","sortOrder":1}]}}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references
+--- REQUEST ---
+GET /api/video-generation/references HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-91630b3d1e4347bd-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:49:46 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::sfvz2-1776952185959-66aeb3b6dac0
+
+{"success":true,"references":[{"id":"cmobjg94k0001l804cbaqv9i3","name":"ground","category":"location","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","notes":null,"klingElementId":"308923664493300","klingElementSyncedAt":"2026-04-23T13:49:45.138Z","createdAt":"2026-04-23T13:49:45.140Z","updatedAt":"2026-04-23T13:49:45.140Z","images":[{"id":"cmobjg94k0002l804zxyp3zbv","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjg94k0003l8041zjat9fq","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/c8d01db2-3b91-46e8-9729-5a43a9df3968.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?category=location
+--- REQUEST ---
+GET /api/video-generation/references?category=location HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-9ddac7147c523a09-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:49:46 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::9722t-1776952185967-2d4e8f8f33a0
+
+{"success":true,"references":[{"id":"cmobjg94k0001l804cbaqv9i3","name":"ground","category":"location","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","notes":null,"klingElementId":"308923664493300","klingElementSyncedAt":"2026-04-23T13:49:45.138Z","createdAt":"2026-04-23T13:49:45.140Z","updatedAt":"2026-04-23T13:49:45.140Z","images":[{"id":"cmobjg94k0002l804zxyp3zbv","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjg94k0003l8041zjat9fq","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/c8d01db2-3b91-46e8-9729-5a43a9df3968.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?
+--- REQUEST ---
+GET /api/video-generation/references? HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyMjgwNjg2LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTI1ODA2ODYsInNpZ25hdHVyZSI6IllNbDYxZU9xTmtFYzVlNEl3a3RVMWh1d05tb2l0cjdyVi1JZUJLUURaT28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-b97209f105b3db38-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:51:47 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::h6h99-1776952306895-f04b352c94df
+
+{"success":true,"references":[{"id":"cmobjg94k0001l804cbaqv9i3","name":"ground","category":"location","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","notes":null,"klingElementId":"308923664493300","klingElementSyncedAt":"2026-04-23T13:49:45.138Z","createdAt":"2026-04-23T13:49:45.140Z","updatedAt":"2026-04-23T13:49:45.140Z","images":[{"id":"cmobjg94k0002l804zxyp3zbv","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjg94k0003l8041zjat9fq","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/c8d01db2-3b91-46e8-9729-5a43a9df3968.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+POST https://www.viewmax.io/api/video-generation/references
+--- REQUEST ---
+POST /api/video-generation/references HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyMjgwNjg2LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTI1ODA2ODYsInNpZ25hdHVyZSI6IllNbDYxZU9xTmtFYzVlNEl3a3RVMWh1d05tb2l0cjdyVi1JZUJLUURaT28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Content-Type: application/json
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-827ed6d4e74e14f1-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Content-Length: 349
+Origin: https://www.viewmax.io
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Idempotency-Key: "3329075157381721848"
+Priority: u=4
+Te: trailers
+
+{"name":"iphone","category":"prop","notes":"","images":[{"url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","mimeType":"image/jpeg"},{"url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a268a97f-4034-4bc4-b171-7b20b86d1f7e.jpg","mimeType":"image/jpeg"}]}
+--- RESPONSE ---
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:53:39 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::n29xz-1776952414286-ef76555676ab
+
+{"success":true,"reference":{"id":"cmobjl99l000lju040bma75fz","name":"iphone","category":"prop","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","notes":null,"klingElementId":"308923898168318","klingElementSyncedAt":"2026-04-23T13:53:38.600Z","createdAt":"2026-04-23T13:53:38.601Z","updatedAt":"2026-04-23T13:53:38.601Z","images":[{"id":"cmobjl99l000mju045d5ltrxu","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjl99l000nju04st7w58jl","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a268a97f-4034-4bc4-b171-7b20b86d1f7e.jpg","mimeType":"image/jpeg","sortOrder":1}]}}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references
+--- REQUEST ---
+GET /api/video-generation/references HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyMjgwNjg2LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTI1ODA2ODYsInNpZ25hdHVyZSI6IllNbDYxZU9xTmtFYzVlNEl3a3RVMWh1d05tb2l0cjdyVi1JZUJLUURaT28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-bcc73afb3af2c697-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:53:40 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::65wnt-1776952419482-f46f7955371b
+
+{"success":true,"references":[{"id":"cmobjl99l000lju040bma75fz","name":"iphone","category":"prop","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","notes":null,"klingElementId":"308923898168318","klingElementSyncedAt":"2026-04-23T13:53:38.600Z","createdAt":"2026-04-23T13:53:38.601Z","updatedAt":"2026-04-23T13:53:38.601Z","images":[{"id":"cmobjl99l000mju045d5ltrxu","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjl99l000nju04st7w58jl","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a268a97f-4034-4bc4-b171-7b20b86d1f7e.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjg94k0001l804cbaqv9i3","name":"ground","category":"location","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","notes":null,"klingElementId":"308923664493300","klingElementSyncedAt":"2026-04-23T13:49:45.138Z","createdAt":"2026-04-23T13:49:45.140Z","updatedAt":"2026-04-23T13:49:45.140Z","images":[{"id":"cmobjg94k0002l804zxyp3zbv","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjg94k0003l8041zjat9fq","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/c8d01db2-3b91-46e8-9729-5a43a9df3968.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?
+--- REQUEST ---
+GET /api/video-generation/references? HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyMjgwNjg2LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTI1ODA2ODYsInNpZ25hdHVyZSI6IllNbDYxZU9xTmtFYzVlNEl3a3RVMWh1d05tb2l0cjdyVi1JZUJLUURaT28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-8e69165ca378387a-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:53:40 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::c42cl-1776952419482-b4cca9aebd4d
+
+{"success":true,"references":[{"id":"cmobjl99l000lju040bma75fz","name":"iphone","category":"prop","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","notes":null,"klingElementId":"308923898168318","klingElementSyncedAt":"2026-04-23T13:53:38.600Z","createdAt":"2026-04-23T13:53:38.601Z","updatedAt":"2026-04-23T13:53:38.601Z","images":[{"id":"cmobjl99l000mju045d5ltrxu","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjl99l000nju04st7w58jl","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a268a97f-4034-4bc4-b171-7b20b86d1f7e.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjg94k0001l804cbaqv9i3","name":"ground","category":"location","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","notes":null,"klingElementId":"308923664493300","klingElementSyncedAt":"2026-04-23T13:49:45.138Z","createdAt":"2026-04-23T13:49:45.140Z","updatedAt":"2026-04-23T13:49:45.140Z","images":[{"id":"cmobjg94k0002l804zxyp3zbv","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjg94k0003l8041zjat9fq","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/c8d01db2-3b91-46e8-9729-5a43a9df3968.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?
+--- REQUEST ---
+GET /api/video-generation/references? HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyNTgxNzM1LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTI4ODE3MzUsInNpZ25hdHVyZSI6InI5bllIa3pncHAxaDB4M3BQVWlaMXBkcWlFZl9XU2UxR2dxcmx1SzVuaHcifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-ba9ae2cbdfda55b7-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:56:30 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::fhwwf-1776952589449-7ba3161d04e9
+
+{"success":true,"references":[{"id":"cmobjl99l000lju040bma75fz","name":"iphone","category":"prop","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","notes":null,"klingElementId":"308923898168318","klingElementSyncedAt":"2026-04-23T13:53:38.600Z","createdAt":"2026-04-23T13:53:38.601Z","updatedAt":"2026-04-23T13:53:38.601Z","images":[{"id":"cmobjl99l000mju045d5ltrxu","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjl99l000nju04st7w58jl","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a268a97f-4034-4bc4-b171-7b20b86d1f7e.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjg94k0001l804cbaqv9i3","name":"ground","category":"location","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","notes":null,"klingElementId":"308923664493300","klingElementSyncedAt":"2026-04-23T13:49:45.138Z","createdAt":"2026-04-23T13:49:45.140Z","updatedAt":"2026-04-23T13:49:45.140Z","images":[{"id":"cmobjg94k0002l804zxyp3zbv","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjg94k0003l8041zjat9fq","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/c8d01db2-3b91-46e8-9729-5a43a9df3968.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?
+--- REQUEST ---
+GET /api/video-generation/references? HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyNTgxNzM1LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTI4ODE3MzUsInNpZ25hdHVyZSI6InI5bllIa3pncHAxaDB4M3BQVWlaMXBkcWlFZl9XU2UxR2dxcmx1SzVuaHcifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-8794916b214f5ec1-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:59:37 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::sshtx-1776952776840-e1dbaf2a8258
+
+{"success":true,"references":[{"id":"cmobjl99l000lju040bma75fz","name":"iphone","category":"prop","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","notes":null,"klingElementId":"308923898168318","klingElementSyncedAt":"2026-04-23T13:53:38.600Z","createdAt":"2026-04-23T13:53:38.601Z","updatedAt":"2026-04-23T13:53:38.601Z","images":[{"id":"cmobjl99l000mju045d5ltrxu","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/acb0765a-49ac-40bb-9461-d73b935969d8.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjl99l000nju04st7w58jl","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a268a97f-4034-4bc4-b171-7b20b86d1f7e.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjg94k0001l804cbaqv9i3","name":"ground","category":"location","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","notes":null,"klingElementId":"308923664493300","klingElementSyncedAt":"2026-04-23T13:49:45.138Z","createdAt":"2026-04-23T13:49:45.140Z","updatedAt":"2026-04-23T13:49:45.140Z","images":[{"id":"cmobjg94k0002l804zxyp3zbv","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8afd0c4c-7612-4ef0-8683-031224ad416c.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjg94k0003l8041zjat9fq","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/c8d01db2-3b91-46e8-9729-5a43a9df3968.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?category=character
+--- REQUEST ---
+GET /api/video-generation/references?category=character HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyNTgxNzM1LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTI4ODE3MzUsInNpZ25hdHVyZSI6InI5bllIa3pncHAxaDB4M3BQVWlaMXBkcWlFZl9XU2UxR2dxcmx1SzVuaHcifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-a9401bf2d4731d7f-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 14:00:17 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::8ph5s-1776952817339-22c8fb05f38d
+
+{"success":true,"references":[{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GET https://www.viewmax.io/api/video-generation/references?category=character
+--- REQUEST ---
+GET /api/video-generation/references?category=character HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyODgzOTE5LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTMxODM5MTksInNpZ25hdHVyZSI6IjdHbzZ4ajlwQVkzYTFVcE1tdWd2UU51M2RpQ1V1bnZZN3p3RUFvN2RMN1kifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-bbcb8eb47996ace9-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+Te: trailers
+
+
+--- RESPONSE ---
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 14:03:07 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/references
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::bsgpf-1776952986784-eee603ae5794
+
+{"success":true,"references":[{"id":"cmobjdwlq0007ld04wpmkdlk0","name":"babe","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","notes":null,"klingElementId":"308923556257311","klingElementSyncedAt":"2026-04-23T13:47:55.597Z","createdAt":"2026-04-23T13:47:55.599Z","updatedAt":"2026-04-23T13:47:55.599Z","images":[{"id":"cmobjdwlq0008ld0458w8pi6f","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/91108c70-c6f2-432d-8874-bd23650a0fae.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobjdwlq0009ld042amukkt6","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/deaf8506-a3e4-4d68-b373-0f36ff058a8f.jpg","mimeType":"image/jpeg","sortOrder":1}]},{"id":"cmobi7cbc0009js048da3dlcy","name":"lia","category":"character","coverImageUrl":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","notes":"She has a high dominant voice","klingElementId":"308921570195318","klingElementSyncedAt":"2026-04-23T13:14:49.751Z","createdAt":"2026-04-23T13:14:49.752Z","updatedAt":"2026-04-23T13:14:49.752Z","images":[{"id":"cmobi7cbc000ajs043dmnkz7v","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/80143cc0-6d72-4f63-a45e-586ad506c63f.jpg","mimeType":"image/jpeg","sortOrder":0},{"id":"cmobi7cbc000bjs04ec98nvlp","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/a31ef869-031b-4b35-997e-a6697e8a3623.jpg","mimeType":"image/jpeg","sortOrder":1}]}]}
+
+============================================================
+GENERATE CALL: POST https://www.viewmax.io/api/video-generation/generate
+--- REQUEST ---
+POST /api/video-generation/generate HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUxOTgwMDMyLCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTIyODAwMzIsInNpZ25hdHVyZSI6ImtYRTJlOUVEbTE3ajdXSFppSzk2TVcxazhZUXRpaXhwVmladXkxRTd2X28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Content-Type: application/json
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-97bba966b3c4ba30-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Content-Length: 1636
+Origin: https://www.viewmax.io
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Idempotency-Key: "12765126498489183927"
+Priority: u=4
+Te: trailers
+
+{"prompt":"@babe is running thought the @ground","orientation":"portrait","duration":5,"multiplier":1,"model":"Kling 3.0","audio":true,"inputMedia":[{"kind":"referenceImage","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/8b01ca72-34cc-4674-9338-c9a90a7f0248.jpg","label":"babe 1","role":"subject","attachmentSource":"mention","savedReferenceId":"cmobjdwlq0007ld04wpmkdlk0","savedReferenceImageId":"cmobjdwlq0008ld0458w8pi6f","savedReferenceCategory":"character","savedReferenceNotes":null},{"kind":"referenceImage","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/76a671c9-748b-42ea-a2a8-829db71c05c3.jpg","label":"babe 2","role":"subject","attachmentSource":"mention","savedReferenceId":"cmobjdwlq0007ld04wpmkdlk0","savedReferenceImageId":"cmobjdw
+--- RESPONSE ---
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:51:02 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/generate
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::ck4lg-1776952259016-e6396a744680
+
+{"success":true,"generationIds":["cmobjhvrj0001ju04vccuebi4"],"message":"Started 1 video generation"}
+
+============================================================
+GENERATE CALL: POST https://www.viewmax.io/api/video-generation/generate
+--- REQUEST ---
+POST /api/video-generation/generate HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyMjgwNjg2LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTI1ODA2ODYsInNpZ25hdHVyZSI6IllNbDYxZU9xTmtFYzVlNEl3a3RVMWh1d05tb2l0cjdyVi1JZUJLUURaT28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Content-Type: application/json
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-b94ce46b53791d90-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Content-Length: 1643
+Origin: https://www.viewmax.io
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Idempotency-Key: "1248729485307973574"
+Priority: u=4
+Te: trailers
+
+{"prompt":"@babe is at the @ground advertising @iphone","orientation":"portrait","duration":5,"multiplier":1,"model":"Kling 3.0","audio":true,"inputMedia":[{"kind":"referenceImage","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/b562dd8c-1dbb-4601-b269-5353f7eb65a0.jpg","label":"babe 1","role":"subject","attachmentSource":"mention","savedReferenceId":"cmobjdwlq0007ld04wpmkdlk0","savedReferenceImageId":"cmobjdwlq0008ld0458w8pi6f","savedReferenceCategory":"character","savedReferenceNotes":null},{"kind":"referenceImage","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/05991536-7684-4b4a-aa16-0a9e5354c9c6.jpg","label":"babe 2","role":"subject","attachmentSource":"mention","savedReferenceId":"cmobjdwlq0007ld04wpmkdlk0","savedReferenceImageId":"c
+--- RESPONSE ---
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:54:32 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/generate
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::fns27-1776952468701-8e3604aa6c22
+
+{"success":true,"generationIds":["cmobjmdkq000lld04jmsy3kcn"],"message":"Started 1 video generation"}
+
+============================================================
+GENERATE CALL: POST https://www.viewmax.io/api/video-generation/generate
+--- REQUEST ---
+POST /api/video-generation/generate HTTP/2
+Host: www.viewmax.io
+Cookie: vm_vid=0bade60f-8f0b-42da-bcc1-a8a5fd008429; _ga_C0JLPEQ0MV=GS2.1.s1776952022$o4$g1$t1776952023$j59$l0$h0; _ga=GA1.1.1536646550.1776935983; __Secure-better-auth.session_token=IQmULLAfwKsBNrC6VrqHQOx9SG9blryV.Yb5cgK3NLBf2lV%2BgVoPZWXhjNuD8SC8tJYzAo8tLxPc%3D; __Secure-better-auth.session_data=eyJzZXNzaW9uIjp7InNlc3Npb24iOnsiZXhwaXJlc0F0IjoiMjAyNi0wNC0zMFQwOToyMjowNS42OTBaIiwidG9rZW4iOiJJUW1VTExBZndLc0JOckM2VnJxSFFPeDlTRzlibHJ5ViIsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjNUMDk6MjI6MDUuNjkxWiIsImlwQWRkcmVzcyI6IjExMS45My4xMi4xNDIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMCIsInVzZXJJZCI6ImMxVmludlNPSzFzNVRTMkcxYkNhemtWdUlhRzNSSndUIiwiaWQiOiJlUWo4dFlpOVNCVWpnV1dQNGN0RE10THJTazhkRDZPSSJ9LCJ1c2VyIjp7Im5hbWUiOiJpc2h0ZXJvcyIsImVtYWlsIjoiaXNodGVyb3NAZ21haWwuY29tIiwiZW1haWxWZXJpZmllZCI6dHJ1ZSwiaW1hZ2UiOm51bGwsImNyZWF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDQ6NDcuMDg5WiIsInVwZGF0ZWRBdCI6IjIwMjYtMDQtMjJUMDU6MDY6MDEuNzEzWiIsImlkIjoiYzFWaW52U09LMXM1VFMyRzFiQ2F6a1Z1SWFHM1JKd1QifSwidXBkYXRlZEF0IjoxNzc2OTUyMjgwNjg2LCJ2ZXJzaW9uIjoiMSJ9LCJleHBpcmVzQXQiOjE3NzY5NTI1ODA2ODYsInNpZ25hdHVyZSI6IllNbDYxZU9xTmtFYzVlNEl3a3RVMWh1d05tb2l0cjdyVi1JZUJLUURaT28ifQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.viewmax.io/tools/video-generator
+Content-Type: application/json
+Sentry-Trace: 29be7acec0d54b7785f8825720869c29-a71510afd90e6d7d-0
+Baggage: sentry-environment=vercel-production,sentry-release=c23ca2512bdf663eaad850902c809f97d715fed3,sentry-public_key=1aee820642f446a720daf4593192af64,sentry-trace_id=29be7acec0d54b7785f8825720869c29,sentry-org_id=4511106698248192,sentry-sampled=false,sentry-sample_rand=0.6954153382663865,sentry-sample_rate=0.1
+Content-Length: 874
+Origin: https://www.viewmax.io
+Sec-Gpc: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Idempotency-Key: "14720141151348203097"
+Priority: u=4
+Te: trailers
+
+{"prompt":"@babe is playing","orientation":"portrait","duration":5,"multiplier":1,"model":"Kling 3.0","audio":true,"inputMedia":[{"kind":"referenceImage","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/4981ca68-a8de-4f20-8e1f-00a478f6f0fc.jpg","label":"babe 1","role":"subject","attachmentSource":"mention","savedReferenceId":"cmobjdwlq0007ld04wpmkdlk0","savedReferenceImageId":"cmobjdwlq0008ld0458w8pi6f","savedReferenceCategory":"character","savedReferenceNotes":null},{"kind":"referenceImage","url":"https://media.viewmax.io/users/c1VinvSOK1s5TS2G1bCazkVuIaG3RJwT/assets/f1ebdf8d-d3b3-4d9f-a10b-cbb8605bd78c.jpg","label":"babe 2","role":"subject","attachmentSource":"mention","savedReferenceId":"cmobjdwlq0007ld04wpmkdlk0","savedReferenceImageId":"cmobjdwlq0009ld042amukkt6","
+--- RESPONSE ---
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 23 Apr 2026 13:55:11 GMT
+Server: Vercel
+Set-Cookie: __better-auth-cookie-store=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /api/video-generation/generate
+X-Vercel-Cache: MISS
+X-Vercel-Id: bom1::iad1::hmf42-1776952507347-973ab5bc84d9
+
+{"success":true,"generationIds":["cmobjn7df000xju0483ll9feo"],"message":"Started 1 video generation"}
